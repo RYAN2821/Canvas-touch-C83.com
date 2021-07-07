@@ -5,7 +5,7 @@ color="black";
 width_of_line=1;
 
 var width=screen.width;
-new_width=screem.width-70;
+new_width=screen.width-70;
 new_height=screen.hieght-300;
 if(width<992)
 {
